@@ -622,12 +622,12 @@ p{
 }
 .p7_text p:first-child{
 	padding-top: 10vh;
-    padding-left: 60px;
+    padding-left: 20%;
     padding-right: 20px;
 }
 .p7_text p:last-child{
-	padding-top: 20vh;
-    padding-left: 60px;
+	padding-top: 23vh;
+    padding-left: 20%;
     padding-right: 20px;
 }
 .p7_arrow{
