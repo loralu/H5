@@ -38,7 +38,7 @@ p{
 	position: relative;
     color: #fff;
     font-size: 1.8rem;
-    line-height: 3.6rem;
+    line-height: 3rem;
 }
 .arrow{
 	color: #fff;
@@ -299,8 +299,8 @@ p{
     top: 20%;
 }
 .p7_index{
-    top: 313px;
-    left: 80px;
+   	top: 47%;
+    left: 20%;
 }
 .p8_index{
     left: 16%;
@@ -340,7 +340,7 @@ p{
 	}
 }
 .p1_arrow{
-    right: 20%;
+    right: 15%;
     bottom: 10vh;
 }
 .p2_arrow{
