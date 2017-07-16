@@ -138,16 +138,16 @@ p{
 	color: #262a3b;
 }
 .p0_sub p{
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 .p0_title{
-	position: relative;
-    left: 50vw;
-    top: 50vh;
+	position: absolute;
+    left: 40vw;
+    top: 45vh;
     transform: translate(-50%,-50%);
-    -webkit-transform:translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%); 
     padding-left: 30%;
-    overflow: hidden;
+    overflow: hidden; 
     white-space: nowrap;
 }
 .slideInRight{
